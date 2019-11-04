@@ -10,7 +10,7 @@ print("7. Alto desempeño")
 print("8. Llantas Run on Flat")
 
 while True:                                       #para el print- print("modelo de llanta", x .....)
-    x=int(input("Ingrese la opcion:"))
+    x=int(input("Ingrese opcion:"))
 
     if x==1:
         print("Elija modelo de llanta:")
