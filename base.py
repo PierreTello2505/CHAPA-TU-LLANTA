@@ -33,9 +33,36 @@ while True:
             a=int(input("Escriba opcion:"))
 
             if a==1:
-                print("dvdd")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==2:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==3:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==4:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==5:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==6:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==7:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==8:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==9:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==10:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==11:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==12:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
+            elif a==13:
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             else:
-                print("Opcion invalida")
+                print("Opcion no valida")
+            if a<=13 and x>=1:
+                break 
+            
                 
     elif x==2:
         print("njsnsdjd")
