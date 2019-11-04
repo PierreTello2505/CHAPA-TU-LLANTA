@@ -1,47 +1,20 @@
-print("Opciones")
+x=int(input("Ingrese el ancho"))
+y=int(input("Ingrese perfil"))
+z=int(input("Ingrese el radio"))
 
-print("1. Automovil")
-print("2. Camioneta")
-print("3. Assurance")
-print("4. Eagle")
-print("5. Wrangler")
-print("6. Efficient")
-print("7. Alto desempeño")
-print("8. Llantas Run on Flat")
+if x==255 and y==4 and z==19:
+    print("Llanta: Goodyear Eagle F1 Asymmetric 2 ROF")
+    print(x,"/",y,"R",z)
+    s=["Precio $255","ideal para ciudad", "pagina de compra: www.elssfsf.com"]
+    print(s)
+    print("Control preciso y potente Aproveche al máximo su coche con un neumático fabricado para maximizar el rendimiento de alta potencia. Un compuesto de sílice especial ofrece un agarre fiable en carreteras secas y mojadas con una carcasa rígida que aumenta la precisión de la dirección incluso a alta velocidad.")
+elif x==250 and y==3 and z==20:
+    print("Llanta: Goodyear Eagle F1 Asymmetric 2 ROF")
+    print(T)
+    s=["Precio $255","ideal para ciudad", "pagina de compra: www.elssfsf.com"]
+    print(s)
+    print("Control preciso y potente Aproveche al máximo su coche con un neumático fabricado para maximizar el rendimiento de alta potencia. Un compuesto de sílice especial ofrece un agarre fiable en carreteras secas y mojadas con una carcasa rígida que aumenta la precisión de la dirección incluso a alta velocidad.")
 
-while True:
-    x=int(input("Ingrese la opcion:"))
-
-    if x==1:
-        print("jejejejeje")
-    
-    elif x==2:
-        print("njsnsdjd")
-
-    elif x==3:
-        print("ieieiei")
-
-    elif x==4:
-        print("uururr")
-
-    elif x==5:
-        print("icnfjkn")
-
-    elif x==6:
-        print("ndfgjndf")
-    
-    elif x==7:
-        print("kndjbjd")
-
-    elif x==8:
-        print("jdgkdnf")
-
-    else:
-        print("Opcion invalida")
-        
-    
-    if x<=10 and x>=1:
-        break 
 
 
     

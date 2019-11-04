@@ -12,9 +12,10 @@
 
 1.3 FUNCIONALIDADES:
 
-    - Proporcionar las medidas de fabrica de la llanta.
     - Brindar al usuario las caracteristicas de las llantas.
+    - Para ciudad o todoterreno.
     - Sus respectivos precios.
     - Proporcionar sus respectiva(s) pagina(s) de compra.
+    - Valoracion respecto a la llanta.
     - Comentarios respecto a la llanta.
     
