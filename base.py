@@ -34,7 +34,7 @@ while True:
         print("kndjbjd")
 
     elif x==8:
-        print("jdgkdnf")
+        print("jdgkhdnf")
 
     else:
         print("Opcion invalida")
