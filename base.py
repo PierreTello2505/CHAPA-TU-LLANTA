@@ -12,8 +12,33 @@ print("8. Llantas Run on Flat")
 while True:
     x=int(input("Ingrese la opcion:"))
 
-    if x>=1 and x<=10:
+    if x==1:
+        print("jejejejeje")
+    
+    elif x==2:
+        print("njsnsdjd")
+
+    elif x==3:
+        print("ieieiei")
+
+    elif x==4:
+        print("uururr")
+
+    elif x==5:
+        print("icnfjkn")
+
+    elif x==6:
+        print("ndfgjndf")
+    
+    elif x==7:
+        print("kndjbjd")
+
+    elif x==8:
+        print("jdgkdnf")
+
+    else:
+        print("Opcion invalida")
+        
+    
+    if x<=10 and x>=1:
         break
-
-
-
