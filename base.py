@@ -12,6 +12,54 @@ print("8. Llantas Run on Flat")
 while True:
     x=int(input("Ingrese la opcion:"))
 
-    if x>=1 and x<=10:
-        break
+    if x==1:
+        print("Elija modelo de llanta:")
 
+        print("1. Goodyear Eagle F1 Asymmetric 2 ROF")
+        print("2. Goodyear Eagle F1 Asymmetric 3")
+        print("3. Goodyear Assurance")
+        print("4. Goodyear EfficientGrip Performance ROF")
+        print("5. Goodyear Eagle F1 Asymmetric 2")
+        print("6. Direction Touring")
+        print("7. Goodyear EfficientGrip ROF")
+        print("8. Goodyear Eagle F1 Asymmetric")
+        print("9. Kelly Edge Sport")
+        print("10. Goodyear Excellence ROF")
+        print("11. Goodyear EfficientGrip Performance")
+        print("12. Kelly Edge Touring")
+        print("13. Goodyear EfficientGrip")
+
+        while True:
+            a=int(input("Escriba opcion:"))
+
+            if a==1:
+                print("dvdd")
+            else:
+                print("Opcion invalida")
+                
+    elif x==2:
+        print("njsnsdjd")
+
+    elif x==3:
+        print("ieieiei")
+
+    elif x==4:
+        print("uururr")
+
+    elif x==5:
+        print("icnfjkn")
+
+    elif x==6:
+        print("ndfgjndf")
+    
+    elif x==7:
+        print("kndjbjd")
+
+    elif x==8:
+        print("jdgkhdnf")
+
+    else:
+        print("Opcion invalida")
+   
+    if x<=10 and x>=1:
+        break
