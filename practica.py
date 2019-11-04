@@ -33,33 +33,35 @@ while True:
             a=int(input("Escriba opcion:"))
 
             if a==1:
-                print("dvdd")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==2:
-                print("wert")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==3:
-                print("fddg")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==4:
-                print("yujjk")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==5:
-                print("bdhfhd")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==6:
-                print("hjkkl")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==7:
-                print("fddg")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==8:
-                print("klhf")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==9:
-                print("bdhfhd")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==10:
-                print("jldg")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==11:
-                print("fddg")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==12:
-                print("gdssd")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             elif a==13:
-                print("bdhfhd")
+                print("Precio, pagina, clase de terrono, valoracion, comentarios")
             else:
                 print("Opcion no valida")
+            if a<=13 and x>=1:
+                break 
             
                 
     elif x==2:
