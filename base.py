@@ -38,6 +38,6 @@ while True:
 
     else:
         print("Opcion invalida")
-        
+   
     if x<=10 and x>=1:
         break
