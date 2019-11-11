@@ -28,7 +28,7 @@ while True:
                     # 1 primera marca del vehiculo
                     if m==1:
                         #MODELOS
-                        print("Modelo de su vehículo")
+                        print("MODELOS")
                         print("1. HIACE")
                         while True:
                             n=int(input("Elija el modelo de su vehículo"))
@@ -68,7 +68,7 @@ while True:
                 # 2 marca del 2018
                     if m==2:
                         #MODELOS DEL VEHICULOS
-                        print("Elije un modelo")
+                        print("MODELOS")
                         print("1. GIULIETTA")
                         print("2. mito")
                         while True:
@@ -76,7 +76,7 @@ while True:
                             # 2.1 primer modelo
                             if n==1:
                                 #VERSIONES
-                                print("elija una de estas versiones")
+                                print("VERSIONES")
                                 print("1. GIULIETTA 1.4 16V TB MULTIAIR DISTINCTIVE")
                                 print("2. GIULIETTA 1.8 16V TB GDI PROGRESSION")
                                 while True:
@@ -102,7 +102,7 @@ while True:
                             # 2.2 segundo modelo
                             if n==2:
                                 #VERSIONES
-                                print("Elija una de estas versiones")
+                                print("VERSIONES")
                                 print("1. MITO 1.4 16V T-JET")
                                 while True:
                                     m=int(input("Elija una version"))
@@ -116,7 +116,7 @@ while True:
                     # 3 marca del 2018                    
                     if m==3:
                         #MODELOS
-                        print("Elija su modelo")
+                        print("MODELOS")
                         print("1. DB11")
                         print("2. RAPIDE")
                         print("3. VANQUISH")
@@ -125,7 +125,7 @@ while True:
                             # 3.1 primer modelo
                             if n==1:
                                 #VERSIONES
-                                print("Elija la version")
+                                print("VERSIONES")
                                 print("1. DB11 5.2 V12 TURBO COUPE AUTO")
                                 while True:
                                     m=int(input("Elija la versionde su vehículo"))
@@ -166,6 +166,7 @@ while True:
                                         print("Indice de velocidad-llantas rear: Y")
                                         print("Indice d ecarga-llantas rear: 99")
                                         
+
 
 
                               
