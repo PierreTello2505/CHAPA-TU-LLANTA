@@ -439,108 +439,108 @@ while True:
             print("Neumatico: Goodyear Eagle F1 Asymmetric 2 ROF") 
             print(x,"/",y,"R",z)
             s=["Precio aproximado: ","Clase/Tipo: Eagle", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Menor consumo de combustible La mayor eficiencia del consumo de combustible le ayuda a reducir gastos y a minimizar las emisiones CO2, lo que es bueno para su bolsillo y para el medio ambiente.")
-    elif x==225 and y==45 and z==17:
-        print("Neumatico: Goodyear Eagle F1 Asymmetric 3")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado: ","Clase/Tipo: Eagle", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("La tecnología ActiveBraking proporciona mayor contacto de la llanta con el suelo en el frenado. Estructura reforzada que garantiza mayor precisión en la dirección y durabilidad.")
-    elif x==255 and y==40 and z==19:
-        print("Neumatico: Goodyear Eagle F1 Asymmetric 2")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado: ","Clase/Tipo: Eagle", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("La tecnología ActiveBraking proporciona mayor contacto de la llanta con el suelo en el frenado.")
-    elif x==225 and y==40 and z==18:
-        print("Neumatico: Goodyear Eagle F1 Asymmetric")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado: ","Clase/Tipo: Eagle", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Conducción de alto rendimiento. Obtenga un mayor rendimiento de su coche de alta potencia. El compuesto de sílice de la superficie mejora el agarre para una maniobrabilidad fiable sobre calzadas secas y mojadas.")
-    elif x==245 and y==45 and z==19:
-        print("Neumatico: Goodyear Excellence ROF")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Eagle", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Creada con compuesto especial de polimero, Excellence brinda una excepcional adherencia y agarre en curvas, con menor distancia de frenado.")
+            print(s)
+            print("Menor consumo de combustible La mayor eficiencia del consumo de combustible le ayuda a reducir gastos y a minimizar las emisiones CO2, lo que es bueno para su bolsillo y para el medio ambiente.")
+        elif x==225 and y==45 and z==17:
+            print("Neumatico: Goodyear Eagle F1 Asymmetric 3")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado: ","Clase/Tipo: Eagle", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("La tecnología ActiveBraking proporciona mayor contacto de la llanta con el suelo en el frenado. Estructura reforzada que garantiza mayor precisión en la dirección y durabilidad.")
+        elif x==255 and y==40 and z==19:
+            print("Neumatico: Goodyear Eagle F1 Asymmetric 2")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado: ","Clase/Tipo: Eagle", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("La tecnología ActiveBraking proporciona mayor contacto de la llanta con el suelo en el frenado.")
+        elif x==225 and y==40 and z==18:
+            print("Neumatico: Goodyear Eagle F1 Asymmetric")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado: ","Clase/Tipo: Eagle", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Conducción de alto rendimiento. Obtenga un mayor rendimiento de su coche de alta potencia. El compuesto de sílice de la superficie mejora el agarre para una maniobrabilidad fiable sobre calzadas secas y mojadas.")
+        elif x==245 and y==45 and z==19:
+            print("Neumatico: Goodyear Excellence ROF")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Eagle", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Creada con compuesto especial de polimero, Excellence brinda una excepcional adherencia y agarre en curvas, con menor distancia de frenado.")
 
     #Siguiente
 
-    elif x==255 and y==70 and z==18:
-        print("Neumatico: Goodyear Wrangler All-Terrain Adventure")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("37 por ciento superior en tracción en piso mojado. Agilidad en terrenos difíciles (barro, arena y piedra).")
-    elif x==265 and y==85 and z==16:
-        print("Neumatico: Goodyear Wrangler MT/R Kevlar")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Insuperable agarre en caminos Off-Road y lluvia. Compuesto de sílica en la banda de rodamiento que proporciona mayor tracción. Extraordinaria tracción en lodo, grava y caminos rocosos. Costado especial de la llanta con un agresivo dibujo que brinda tracción lateral.")
-    elif x==215 and y==70 and z==16:
-        print("Neumatico: Goodyear Wrangler SUV")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Mejor adherencia en piso mojado. Kilometraje y ahorro de combustible.")
-    elif x==245 and y==70 and z==16:
-        print("Neumatico: Goodyear Wrangler Armortrac")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Mejor desempeño en piso mojado. Kilometraje y resistencia en condiciones de carretera y todo terreno.")
-    elif x==235 and y==70 and z==16:
-        print("Neumatico: Goodyear Wrangler Adventure")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Construcción reforzada en el costado con Durawal TechnologyTM  que proporciona  mayor resistencia a cortes y perforaciones. Láminas en tacos y hombros que proporcionan mayor capacidad de enfriamiento y superior alcance en kilometroje.")
-    elif x==275 and y==55 and z==18:
-        print("Neumatico: Goodyear Wrangler Duratrac")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Rodar silencioso: Bloques centrales altamente angulados que aumentan la tracción y la estabilidad lateral y reducen el ruido externo.")
-    elif x==275 and y==70 and z==16:
-        print("Neumatico: Goodyear Wrangler HP All Weather")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Rodar suave y confortable. Mayor poder de tracción en pisos secos o mojados.")
-    elif x==205 and y==80 and z==16:
-        print("Neumatico: Goodyear Wrangler AT/S")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Excelente tracción en todo tipo de terreno gracias a sus canales autolimpiantes que permiten una mejor evacuación del agua y barro. Su diseño profundo en la parte exterior de los hombros y amplios bloques laterales ofrecen una adecuada protección para el costado.")
+        elif x==255 and y==70 and z==18:
+            print("Neumatico: Goodyear Wrangler All-Terrain Adventure")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("37 por ciento superior en tracción en piso mojado. Agilidad en terrenos difíciles (barro, arena y piedra).")
+        elif x==265 and y==85 and z==16:
+            print("Neumatico: Goodyear Wrangler MT/R Kevlar")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Insuperable agarre en caminos Off-Road y lluvia. Compuesto de sílica en la banda de rodamiento que proporciona mayor tracción. Extraordinaria tracción en lodo, grava y caminos rocosos. Costado especial de la llanta con un agresivo dibujo que brinda tracción lateral.")
+        elif x==215 and y==70 and z==16:
+            print("Neumatico: Goodyear Wrangler SUV")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Mejor adherencia en piso mojado. Kilometraje y ahorro de combustible.")
+        elif x==245 and y==70 and z==16:
+            print("Neumatico: Goodyear Wrangler Armortrac")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Mejor desempeño en piso mojado. Kilometraje y resistencia en condiciones de carretera y todo terreno.")
+        elif x==235 and y==70 and z==16:
+            print("Neumatico: Goodyear Wrangler Adventure")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Construcción reforzada en el costado con Durawal TechnologyTM  que proporciona  mayor resistencia a cortes y perforaciones. Láminas en tacos y hombros que proporcionan mayor capacidad de enfriamiento y superior alcance en kilometroje.")
+        elif x==275 and y==55 and z==18:
+            print("Neumatico: Goodyear Wrangler Duratrac")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Rodar silencioso: Bloques centrales altamente angulados que aumentan la tracción y la estabilidad lateral y reducen el ruido externo.")
+        elif x==275 and y==70 and z==16:
+            print("Neumatico: Goodyear Wrangler HP All Weather")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Rodar suave y confortable. Mayor poder de tracción en pisos secos o mojados.")
+        elif x==205 and y==80 and z==16:
+            print("Neumatico: Goodyear Wrangler AT/S")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Wrangler", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Excelente tracción en todo tipo de terreno gracias a sus canales autolimpiantes que permiten una mejor evacuación del agua y barro. Su diseño profundo en la parte exterior de los hombros y amplios bloques laterales ofrecen una adecuada protección para el costado.")
 
     #Siguiente
 
-    elif x==255 and y==60 and z==17:
-        print("Neumatico: Goodyear EfficientGrip Performance SUV")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Efficient", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Desarrollado con la tecnología Fuel Saving, que proporciona ahorro de combustible. Ofrece un desempeño hasta 30 % mejor en maniobrabilidad y 15 porciento superior en tracción y frenado en piso mojado.")
-    elif x==205 and y==60 and z==16:
-        print("Neumatico: Goodyear EfficientGrip Performance")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Efficient", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Compuesto de banda de rodamiento desarrollado para optimizar la adherencia en pisos secos y mojados.")
-    elif x==205 and y==65 and z==16:
-        print("Neumatico: Goodyear EfficientGrip")
-        print(x,"/",y,"R",z)
-        s=["Precio aproximado aproximado: ","Clase/Tipo: Efficient", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-        print(s)
-        print("Con estructura liviana y compuesto avanzado de banda, EfficientGrip necesita menos energía para rodar. Disfruta viajes más silenciosos gracias al diseño de los bloques que reduce los niveles de ruido. Economiza combustible con EfficientGrip, con la tecnología FuelSaving.")
+        elif x==255 and y==60 and z==17:
+            print("Neumatico: Goodyear EfficientGrip Performance SUV")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Efficient", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Desarrollado con la tecnología Fuel Saving, que proporciona ahorro de combustible. Ofrece un desempeño hasta 30 % mejor en maniobrabilidad y 15 porciento superior en tracción y frenado en piso mojado.")
+        elif x==205 and y==60 and z==16:
+            print("Neumatico: Goodyear EfficientGrip Performance")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Efficient", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Compuesto de banda de rodamiento desarrollado para optimizar la adherencia en pisos secos y mojados.")
+        elif x==205 and y==65 and z==16:
+            print("Neumatico: Goodyear EfficientGrip")
+            print(x,"/",y,"R",z)
+            s=["Precio aproximado aproximado: ","Clase/Tipo: Efficient", "pagina de compra: https://www.goodyear.com.pe/llantas"]
+            print(s)
+            print("Con estructura liviana y compuesto avanzado de banda, EfficientGrip necesita menos energía para rodar. Disfruta viajes más silenciosos gracias al diseño de los bloques que reduce los niveles de ruido. Economiza combustible con EfficientGrip, con la tecnología FuelSaving.")
 
-    else:
-        print("Lo sentimos, no existen ejemplares de las medidas deseadas.")
+        else:
+            print("Lo sentimos, no existen ejemplares de las medidas deseadas.")
 
-    if x<=500 and y<=500 and z<=500:
-        break
+        if x<=500 and y<=500 and z<=500:
+            break
         
