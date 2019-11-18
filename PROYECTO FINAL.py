@@ -300,12 +300,6 @@ while True:
                 s=["Precio 70$-140$","ideal para ciudad", "pagina de compra: https://www.goodyear.com.pe/llantas"]
                 print(s)
                 print("Distancia de frenado reducida Siéntase más seguro al volante en cada viaje con la tecnología ActiveBraking. Esta característica aumenta la superficie de contacto entre el neumático y la carretera, para reducir drásticamente las distancias de frenado, hasta un 8% más cortas en carreteras mojadas y hasta un 3 por ciento en carreteras secas.")
-            elif x==255 and y==4 and z==19:
-                print("Neumatico: Goodyear Eagle F1 Asymmetric 2")
-                print(x,"/",y,"R",z)
-                s=["Precio 70$-140$","ideal para ciudad", "pagina de compra: https://www.goodyear.com.pe/llantas"]
-                print(s)
-                print("Control preciso y potente Aproveche al máximo su coche con un neumático fabricado para maximizar el rendimiento de alta potencia. Un compuesto de sílice especial ofrece un agarre fiable en carreteras secas y mojadas con una carcasa rígida que aumenta la precisión de la dirección incluso a alta velocidad.")
             elif x==175 and y==70 and z==13:
                 print("Neumatico: Direction Touring")
                 print(x,"/",y,"R",z)
