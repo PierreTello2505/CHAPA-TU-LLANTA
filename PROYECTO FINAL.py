@@ -273,7 +273,7 @@ while True:
         while True:
             x=int(input("Ingrese el ancho"))
             y=int(input("Ingrese perfil"))
-            z=int(input("Ingrese el radio"))
+            z=int(input("Ingrese el diametro"))
 
             if x==255 and y==4 and z==19:
                 print("Neumático: Goodyear Eagle F1 Asymmetric 2 ROF")
